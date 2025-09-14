@@ -1,9 +1,7 @@
 # debianoncodespaces
 runs debian linux on github codespaces.
 
-it runs with the user "leonel" and the password "1234"
-
-(also, the locale is pt_BR),
+it runs with the user "user" and the password "1234"
 
 but you can fork and switch to whatever you want.
 
