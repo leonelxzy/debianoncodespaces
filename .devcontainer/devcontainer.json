@@ -5,5 +5,5 @@
 	},
 	"overrideCommand": false,
 	"privileged": true,
-	"remoteUser": "leonel"
+	"remoteUser": "user"
 }
